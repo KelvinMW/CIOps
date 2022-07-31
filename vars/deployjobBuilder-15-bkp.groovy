@@ -31,7 +31,7 @@ spec:
             name: jenkins-credentials
             key: dockerPassword
       - name: DOCKER_NAMESPACE
-        value: egovio
+        value: kelvinmw
       - name: DOCKER_GROUP_NAME  
         value: dev
     resources:
